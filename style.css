@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(20, 20, 94, 0.697);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    padding-top: 145px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.conteiner2 h5{
+    font-size: 15px;
+    color: rgb(243, 240, 240);
+}
+.conteiner2{
+    background-color: #3f418bbf;
+    border-radius: 10px;
+    width: 375px;
+    padding: 10px;
+    box-shadow: 2px 8px 15px black;
+}
+.allphoto img{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    flex-direction: row;
+}
